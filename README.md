@@ -1,4 +1,4 @@
-- 🍕 velog: [@jieunwang](https://velog.io/@jieunwang/posts)
+- 🍕 velog: [@jieunwang](https://nuew.tistory.com/)
 - 🥤 Reach me: <a href="mailto:jieunwang00@gmail.com">jieunwang00@gmail.com</a>
 
 <a href="https://github.com/devxb/gitanimals?contribution-view=false">
